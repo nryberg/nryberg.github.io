@@ -1,6 +1,6 @@
 ---
 title: "Big props to Michael Rose"
-date: 2019-04-18T15:34:30-04:00
+date: 2020-04-02
 categories:
   - blog
 tags:

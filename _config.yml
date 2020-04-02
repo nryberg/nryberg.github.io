@@ -65,13 +65,7 @@ plugins:
 author:
   name   : "Nick Ryberg"
   avatar : "/assets/images/headshot.jpg"
-  bio    : >-  
-  80% of analytics, data science and just plain old charting is spent 
-  working on cleaning, fixing, prepping, coddling and generally hand-holding
-  data to get it to the right spot. 
-
-  I specialize reducing the 80% to a manageable level using the tools you 
-  have at hand.
+  bio    : "80% of analytics, data science and just plain old charting is spent working on cleaning, fixing, prepping, coddling and generally hand-holding data to get it to the right spot. I specialize reducing the 80% to a manageable level using the tools you have at hand."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

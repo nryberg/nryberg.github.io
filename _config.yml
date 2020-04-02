@@ -26,6 +26,8 @@ twitter_username: nryberg
 github_username: nryberg
 minimal_mistakes_skin: default
 search: true
+locale: "en-US"
+title_separator: "|"
 
 # Build settings
 markdown: kramdown
@@ -61,22 +63,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Nick Ryberg"
+  avatar : "/assets/images/headshot.jpg"
+  bio    : "Making sense of the world, one byte at a time."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/nryberg"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/nryberg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/nryberg"
 
 footer:
   links:

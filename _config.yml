@@ -29,6 +29,8 @@ search: true
 locale: "en-US"
 title_separator: "|"
 
+repository: nryberg/nryberg.github.io
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

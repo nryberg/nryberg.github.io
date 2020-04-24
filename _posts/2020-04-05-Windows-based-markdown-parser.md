@@ -1,13 +1,13 @@
 ---
 title: "Powershell: Windows Marked File Watcher"
 categories:
-  - Blog
+  - blog
 tags:
   - Powershell
   - Markdown
 ---
 
-I love [Brett Terpstra's](https://brettterpstra.com/) [Marked2 App](https://marked2app.com/).  It's fantastic, it's fast, it gives immediate feedback and while not free, it's absolutely worth the cost. 
+I love [Brett Terpstra's][1] [Marked2 App][2].  It's fantastic, it's fast, it gives immediate feedback and while not free, it's absolutely worth the cost. 
 
 Unfortunately, it's Mac Only.  :(
 
@@ -18,17 +18,17 @@ Couple of caveats:
 * It uses the Github API to get the HTML
 	- Good : because there's no problems parsing
 	- Bad : because there's no theming yet.
-* It requires installing the Convert_From_Markdown module 
+* It requires installing the Convert\_From\_Markdown module 
 
 
-### Watch the folder 
-First - you have to watch the folder for changes - [Stackoverflow Article](https://stackoverflow.com/a/29067433/21275)
+### Watch the folder
+First - you have to watch the folder for changes - [Stackoverflow Article][3]
 
-### Convert the files 
-Second - you have to convert the changed files into HMTL. - [Craig Forrester](https://www.craigforrester.com/) and available on his [Github page](https://github.com/craigforr/ConvertFrom-Markdown).
+### Convert the files
+Second - you have to convert the changed files into HMTL. - [Craig Forrester][4] and available on his [Github page][5].
 
 ### Combined Code
-[Github](https://gist.github.com/nryberg/cb1f00067129fded3103f1b737fcb70d)
+[Github][6]
 
 ```powershell
 Import-Module Convert_From_Markdown
@@ -69,3 +69,10 @@ Function Register-Watcher {
 # Use the new function 
 Register-Watcher $folder
 ```
+
+[1]:	https://brettterpstra.com/
+[2]:	https://marked2app.com/
+[3]:	https://stackoverflow.com/a/29067433/21275
+[4]:	https://www.craigforrester.com/
+[5]:	https://github.com/craigforr/ConvertFrom-Markdown
+[6]:	https://gist.github.com/nryberg/cb1f00067129fded3103f1b737fcb70d

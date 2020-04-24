@@ -1,14 +1,14 @@
 ---
-title: “Life on the Data River”
+title: "Life on the Data River"
 date: 2020-04-23
 categories:
   - blog
 tags:
   - Analytics
-- Data Field Guide
+  - Data Field Guide
 ---
 
-Life on the Mississippi Bookplate(/assets/images/life-on-the-mississippi.jpeg "Bookplate")
+![Life on the Mississippi Bookplate](/assets/images/life-on-the-mississippi.jpeg "Bookplate")
 
 We were transporting passengers and freight on highly romantic but also highly flammable steamboats.  These monstrous mayflies of the transportation world were navigating the ever-changing American rivers and waterways.  
 
@@ -59,3 +59,10 @@ I've designed the  Data Field Guide approach to gather some basic analytic techn
 [image-1]:	/assets/images/Pilot_form.png
 [image-2]:	/assets/images/posting_forms.png
 [image-3]:	/assets/images/Steamboat.png
+
+## Credits 
+
+Images pulled from [the digital
+Gutenberg copy of Mark Twain's 'Life on the Mississippi'](https://www.gutenberg.org/files/245/245-h/245-h.htm)
+
+Book was memorized as a child so that part was just training.

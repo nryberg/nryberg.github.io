@@ -10,9 +10,9 @@ tags:
 
 ![Life on the Mississippi Bookplate](/assets/images/life-on-the-mississippi.jpeg "Bookplate")
 
-We were transporting passengers and freight on highly romantic but also highly flammable steamboats.  These monstrous mayflies of the transportation world were navigating the ever-changing American rivers and waterways.  
+In the early 1800's, passengers and freight were transported on highly romantic but also highly flammable steamboats.  These monstrous mayflies of the transportation world were navigating the ever-changing American rivers and waterways.  
 
-Mark Twain celebrated the ability to pilot these confection cakes of people, cotton and timber through snags, sand bars, changing currents, and an almost complete lack of navigation information that we now take for granted.  The humblest houseboat can have an inexpensive sonar that would have provided life-saving information in that day and age. Modern dentistry is appreciated as well, but for the sake of this story, we’ll focus on data and technology.
+Mark Twain celebrated the ability to pilot these confection cakes of people, cotton and timber through snags, sand bars, changing currents, and an almost complete lack of navigation information that we now take for granted.  The humblest houseboat can have an inexpensive sonar that would have provided life-saving information in that day and age. Modern dentistry is appreciated as well, but for the sake of this story, I’ll focus on data and technology.
 
 The very core of “Life on the Mississippi” is the transfer of knowledge.  As a “cub” pilot, he was trained somewhat methodically and alternately brutally and the ins and outs of navigation on a body of water that was unpredictable and deadly. 
 

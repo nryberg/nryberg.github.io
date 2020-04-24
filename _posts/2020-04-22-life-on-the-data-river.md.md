@@ -1,5 +1,5 @@
 ---
-title: “Life “on the Data River
+title: “Life on the Data River”
 date: 2020-04-23
 categories:
   - blog

@@ -16,6 +16,8 @@ During the black Friday sales, I took advantage of two learning opportunities, b
 
 As a result, I've created a bit of a technology bake-off - [Ruby on Rails](https://rubyonrails.org/) vs. [Go Web](https://golang.org/) vs. [Svelte](https://svelte.dev/).
 
+![Bake Off](/assets/images/noun_bake_1981442_small.png)
+
 ## Starting points
 
 ### Rails and the PragProg Book Sale

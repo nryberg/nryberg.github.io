@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+source 'http://rubygems.org'
+gem 'github-pages'
+=======
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
@@ -15,3 +19,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+>>>>>>> 18ce0e5f7a244c72fb0d1780acc9a3d3ac418d4c

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+safe: true
+lsi: false
+pygments: true
+baseurl: /
+=======
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -16,11 +22,11 @@
 title: Nick Ryberg - Data Mechanic
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  80% of analytics, data science and just plain old charting is spent
+  80% of analytics, data science and just plain old charting is spent 
   working on cleaning, fixing, prepping, coddling and generally hand-holding
-  data to get it to the right spot.
+  data to get it to the right spot. 
 
-  I specialize reducing the 80% to a manageable level using the tools you
+  I specialize reducing the 80% to a manageable level using the tools you 
   have at hand.
 twitter_username: nryberg
 github_username: nryberg
@@ -120,3 +126,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+>>>>>>> 18ce0e5f7a244c72fb0d1780acc9a3d3ac418d4c

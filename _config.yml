@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-safe: true
-lsi: false
-pygments: true
-baseurl: /
-=======
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -126,4 +120,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
->>>>>>> 18ce0e5f7a244c72fb0d1780acc9a3d3ac418d4c

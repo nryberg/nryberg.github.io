@@ -1,6 +1,6 @@
 ---
 title: "In the Saddle Again"
-date: 2021--01-01
+date: 2021-01-01
 categories:
   - blog
 tags:
@@ -28,17 +28,17 @@ I purchased the [Rails Guide](https://pragprog.com/titles/rails6/agile-web-devel
 
 ### Go Web and Jon Calhoun
 
-Every year he has his instruction course sale, and I jumped on it this time.  As always, it's thorough, approachable and solid.  [Learn to Create Web Applications using Go](https://www.usegolang.com/) is comprehensive and includes video, code and the textbook. 
+Every year he has his instruction course sale, and I jumped on it this time.  As always, it's thorough, approachable and solid.  [Learn to Create Web Applications using Go](https://www.usegolang.com/) is comprehensive and includes video, code and the textbook.
 
 ### Svelte
 
-The [recent podcast](https://datastori.es/163-svelte-js-for-web-based-dataviz-with-amelia-wattenberger/) from Data Stories with guest Amelia Wattenberger really caught my ear. 
+The [recent podcast](https://datastori.es/163-svelte-js-for-web-based-dataviz-with-amelia-wattenberger/) from Data Stories with guest Amelia Wattenberger really caught my ear.
 
 The idea that you can rapidly develop D3 style visualizations sounds awesome.  With that motivation in hand, I went to the [O'Reilly site](https://learning.oreilly.com/) which in no sense of the word is cheap - however I have a work based pass.  
 
 [Svelte 3 Up and Running](https://learning.oreilly.com/library/view/svelte-3-up) is a fantastic book.
 
-## Current Status 
+## Current Status
 
 As of January 1st, 2021, (just love saying that now), I've gotten this far:
 
@@ -50,11 +50,11 @@ As of January 1st, 2021, (just love saying that now), I've gotten this far:
 
 ### Editor
 
-My coding environment of choice now is [Visual Studio Code](https://code.visualstudio.com/) - there are so many fantastic IDEs out there now, I'm happy to go with a fairly mainstream and very well supported one.  It's odd to be relying on Microsoft in this way, but the prices is right and the community support is huge. 
+My coding environment of choice now is [Visual Studio Code](https://code.visualstudio.com/) - there are so many fantastic IDEs out there now, I'm happy to go with a fairly mainstream and very well supported one.  It's odd to be relying on Microsoft in this way, but the prices is right and the community support is huge.
 
 ### Local Server
 
-While I have a [Intel NUC]() which is great, I'm jumping on the Windows Subsystem for Linux bandwagon.  Ubuntu is what I've known for years, and it's pretty cool that it (mostly) just works right out of the box. 
+While I have a [Intel NUC]() which is great, I'm jumping on the Windows Subsystem for Linux bandwagon.  Ubuntu is what I've known for years, and it's pretty cool that it (mostly) just works right out of the box.
 
 ### Repository
 
@@ -64,5 +64,4 @@ While I have a [Intel NUC]() which is great, I'm jumping on the Windows Subsyste
 
 ### (Future) Public Host
 
-Almost certainly [Digital Ocean](https://www.digitalocean.com/).  Inexpensive and the UX is amazing. 
-
+Almost certainly [Digital Ocean](https://www.digitalocean.com/).  Inexpensive and the UX is amazing.

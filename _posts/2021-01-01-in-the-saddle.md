@@ -42,7 +42,7 @@ The idea that you can rapidly develop D3 style visualizations sounds awesome.  W
 
 As of January 1st, 2021, (just love saying that now), I've gotten this far:
 
-* Rails - some hiccups with Webpacker ([WTF](https://github.com/nryberg/til/blob/master/rails/webpacker-error.md)), it's now running flawlessly and I can get back to coding.  Did not expect that hiccup and it still irritates a little
+* Rails - some hiccups with Webpacker (WTF), it's now running flawlessly and I can get back to coding.  Did not expect that hiccup and it still irritates a little
 * Go for Web - played around with it, took the first couple of modules, and put it down. 
 * Svelte - sounded good on the package, but after the 20th little custom configuration demanded bug fixes and tweaks, I finally put it down.  Grr.
 
